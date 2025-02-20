@@ -3,3 +3,8 @@ Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
+Alice Blue, Chemistry Assignment, 2025-03-10, Pending
+Bob Red, Biology Report, 2025-03-12, Submitted
+Charlie Grey, Literature Review, 2025-03-15, Pending
+Diana Yellow, Economics Case Study, 2025-03-18, Pending
+Edward Pink, Music Composition, 2025-03-20, Submitted
